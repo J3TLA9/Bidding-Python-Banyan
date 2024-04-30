@@ -1,0 +1,5 @@
+backplane_name,ip_address,subscriber_port,subscriber_topic,publisher_port
+Server,192.168.150.230,43125,"[client]",43124
+Client1,192.168.150.202,43125,"[client]",43124
+Client2,192.168.150.225,43125,"[client]",43124
+Client3,192.168.150.39,43125,"[client]",43124
